@@ -16,4 +16,4 @@ Note: Browse Downloaded Files will open the downloads folder.
 Note: Downloads folder will appear in the same directory where the program is saved.
 
 
-IMPORTANT: Please read the DISCLAIMER.md provided with the package before using the program.
+IMPORTANT: Please read the DISCLAIMER.txt provided with the package before using the program.
